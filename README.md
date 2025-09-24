@@ -1,2 +1,3 @@
-# Los-pavos-en-fornite
-en este tema hablare del porque las monedas V-bucks o mas conocidas como los pavos aumentaron considerablemente su precio en este año.
+ # Los-pavos-en-fornite
+ en este tema hablare del porque las monedas V-bucks o mas conocidas como los pavos(moneda virtual del videojuego fortnite) aumentaron considerablemente su precio en este año.
+ ¿como podriamos reducir el costo de los pavos en fortnite? Epic Games ya aplica precios diferenciados por región, pero podría optimizar aún más esta estrategia considerando factores económicos como el salario mínimo, la inflación y el poder adquisitivo local. Esto permitiría que los jugadores de países con menor ingreso per cápita accedan a paVos a un precio más justo y proporcional a su economía local.
