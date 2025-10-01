@@ -1,5 +1,6 @@
  # Los-pavos-en-fornite
  # Tema:Analisis del aumento del precio de la moneda virtual V-bucks o mas conocidos como pavos
+![Pavos de Fortnite](https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_5000_EGS_1200x1600_1200x1600-eb3c8e7ca0803a6cb2fb374d271227f2)
 
 
  
